@@ -1,0 +1,1 @@
+Unity Test Framework: Window → General → Test Runner. Скопируйте `starter/_Project` в `Assets/`, подключите компоненты из ЛР 1/7. Для CI с Unity см. game-ci (требует лицензию) — на курсе достаточно локального запуска + скриншот результатов в отчёт.
