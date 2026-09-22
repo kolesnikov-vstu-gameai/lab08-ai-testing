@@ -33,6 +33,13 @@ docs/bugs.md                 журнал найденных багов (мин�
 .github/workflows/ci.yml     CI: lint + все тесты + отчёт о времени
 ```
 
+## Запуск (Python)
+
+```bash
+pip install -r requirements.txt   # или: make install
+make check                        # линтер + тесты; все команды: make help
+```
+
 ## Как сдавать
 
 1. Работайте в этом репозитории, коммитьте по шагам (`step-1`, `step-2` …) — история коммитов учитывается.
